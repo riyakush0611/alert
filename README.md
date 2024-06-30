@@ -13,6 +13,8 @@ We have created a tool to help the smart city program by identifying locations t
 Location Analysis: Within a 5-kilometer radius, the app indicates places without hospitals.
 Recommendations: To improve community health infrastructure, we propose that the government build hospitals or medical camps in these underprivileged communities.
 The Operation of the Service
+
+
 Tracking Location: The application keeps track of the user's present location.
 Hospital Location: The HERE Map API is used to list all of the surrounding hospitals.
 Route Calculation: Taking traffic congestion into account, the program determines the most efficient routes to each hospital.
